@@ -2,7 +2,7 @@
 
 ![image](https://github.com/ibrahimusluu/translater-with-ES6/blob/master/image/App_View.png)
 
-# currency-converter-with-ES6
+# translater-with-ES6
 
 HTML, CSS and Pure JavaScript with ES6 using MyMemory and Web Speech APIs
 
@@ -22,9 +22,12 @@ Pure JavaScript, HTML and CSS
 
 font-awesome 6.1.1
 
-# ExChange Rate
+# MyMemory
 
-https://mymemory.translated.net/doc/spec.php --> no "sign-up" required ,
+https://mymemory.translated.net/doc/spec.php --> no "sign-up" required
+
+# Web Speech
+
 https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API --> no "sign-up" required , supported by browsers(not all)
 
 # Explanations
